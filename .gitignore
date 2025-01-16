@@ -1,0 +1,44 @@
+# Ignorar pastas e arquivos de configuração do sistema
+.VirtualBox/
+.bash_history
+.cache/
+.conda/
+.config/
+.continuum/
+.docker/
+.dotnet/
+.eclipse/
+.gitconfig
+.idlerc/
+.jdks/
+.jupyter/
+.lesshst
+.librarymanager/
+.m2/
+.matplotlib/
+.node_repl_history
+.nuget/
+.p2/
+.software/
+.spyder-py3/
+.ssh/
+.sts4/
+.templateengine/
+.vscode/
+
+# Ignorar pastas do projeto e dependências
+node_modules/
+eclipse-workspace/.metadata/
+eclipse-workspace/appAcerta/
+eclipse-workspace/cafeteriaBomGosto/
+eclipse-workspace/multinacSolutions/
+
+# Ignorar arquivos específicos de sistema operacional
+NTUSER.DAT*
+*.log
+*.ini
+*~ 
+
+# Ignorar pastas e arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
